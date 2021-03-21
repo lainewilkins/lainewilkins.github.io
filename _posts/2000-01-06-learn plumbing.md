@@ -2,13 +2,13 @@
 title: "Learn plumbing"
 bg: blue
 color: Black
-fa-icon: magnet
+fa-icon: wrench
 style: center
 
 ---
 
 <!--<img src="img/university place mall promo.jpg" width="75%" height="75%"/><br>-->
-<img src="img/profile test.jpg" width="40%" height = "40%" alt="profile">
+<img src="img/profile test.jpg" width="60%" height = "60%" alt="profile">
 
 <!--## Utah School of Magic-->
 <!--<div class="icontain"><iframe src="https://www.youtube.com/embed/wgBfHOwoMC8" allowfullscreen></iframe></div><br><br>-->
