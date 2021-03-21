@@ -1,8 +1,8 @@
 ---
 title: "Learn plumbing"
 bg: blue
-color: Orange
-fa-icon: stars
+color: Black
+fa-icon: magnet
 style: center
 
 ---
