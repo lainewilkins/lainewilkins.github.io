@@ -1,7 +1,7 @@
 ---
 title: "Learn plumbing"
 bg: blue
-color: Black
+color: black
 fa-icon: wrench
 style: center
 
@@ -14,8 +14,8 @@ style: center
 <!--<div class="icontain"><iframe src="https://www.youtube.com/embed/wgBfHOwoMC8" allowfullscreen></iframe></div><br><br>-->
 
 
-# Scott Chamberlain Provides a fun and exciting magic camp for kids ages 7 - 12
-## Find out more about this class by visiting the [utahschoolofmagic](http://www.utahschoolofmagic.com/) webpage!
+<!--# Scott Chamberlain Provides a fun and exciting magic camp for kids ages 7 - 12
+## Find out more about this class by visiting the [utahschoolofmagic](http://www.utahschoolofmagic.com/) webpage!-->
 <!--#  <b>September 18, 2020<b/>
 <img src="img/fanx.png" width="40%" height="40%"/><br>
 ## I will be performing at FanX this year!  Time is at 4pm on Friday on the convention hall stage.  If you plan to attend FanX this year, please keep a look for my performance.  More information can be found on their [website](https://fanxsaltlake.com/)-->
