@@ -1,7 +1,7 @@
 ---
 title: "Learn plumbing"
-bg: blue
-color: black
+bg: black
+color: blue
 fa-icon: wrench
 style: center
 
