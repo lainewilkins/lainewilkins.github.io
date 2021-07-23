@@ -25,7 +25,8 @@ style: center
 ## On June 20th, you can find me at University Place Mall performing 3 shows!  
 ## The 1st show is at 9:30 am, 2nd at 10:45 am, and the 3rd show at 12:00 pm.
 ## While this is a free event, space is extremely limited to allow for proper social distancing.  If you want to attend, you MUST get tickets at the [University Place Mall Website](https://www.universityplaceorem.com/events/great-scott-magic-shows/) <br><br><br> -->
-
+## [MTEC 3-4 yr plumbing program](https://mtec.edu/programs/plumbing-apprenticeship/)
+## [SLCC 3-4 yr Plumbing program](https://www.slcc.edu/satts/programs/apprenticeship-plumber-ind.aspx) 
 <!--# <b>October 14, 2019<b/>
 <img src="img/cornbellys_1.png" width="75%" height="75%"/><br>
 ## Cornbellys at Thanksgiving Point will have me out again on October 14th for 2 shows for their Magic Monday Night.  The first show will be at 5:30 followed by a second show at 6:45.  Come out and enjoy the fun!-->
